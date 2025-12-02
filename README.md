@@ -35,7 +35,7 @@
 ## 📬 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ben-price-nz/">
+  <a href="www.linkedin.com/in/benprice700/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
