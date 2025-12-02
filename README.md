@@ -35,9 +35,9 @@
 ## 📊 GitHub Stats  
 <div align="center">
 
-![Ben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benprice700&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benprice700&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=benprice700&theme=radical)
+![Ben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benprice2&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benprice2&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=benprice2&theme=radical)
 
 </div>
 
