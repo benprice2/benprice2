@@ -1,16 +1,64 @@
-## Hi there 👋
+<!-- Header -->
+<h1 align="center">Hi, I'm Ben Price 👋</h1>
+<h3 align="center">Full-stack Developer | Recent CS Graduate</h3>
 
-<!--
-**benprice2/benprice2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>A recent graduate building websites and apps, constantly learning new skills each day.</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🎓 Bachelor of Science in Computer Science  
+- 💻 Passionate about web development, AI-assisted coding & building useful digital tools  
+- 🌱 Currently improving my full-stack workflow (Next.js, Tailwind, AI tooling)  
+- 🎯 Goal: Build clean, fast, modern websites and small apps while growing into a full industry role  
+
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode" />
+</p>
+
+---
+
+## 🔥 What I'm Working On  
+- 🌐 **Portfolio Website** — refining design & animations  
+- 🌊 **Malmo Marine** — building a proof-of-concept marine job portal  
+- 🚤 **Salazar Marine Website** — modern, clean company website build  
+- ✉️ **AI Email Summarizer** — simple ML-powered inbox helper  
+
+---
+
+## 📊 GitHub Stats  
+<div align="center">
+
+![Ben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenPriceNZ&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenPriceNZ&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=BenPriceNZ&theme=radical)
+
+</div>
+
+---
+
+## 📬 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ben-price-nz/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+## ✨ Fun Facts  
+- 🏋️‍♂️ I train 6 days a week (strength + hypertrophy)  
+- 🚤 I tinker with boats & mechanical stuff
+- 🚙 I enjoy 4WD adventures and getting out on the tracks 
+- 🛠️ I love building small tools that make life easier  
+
+---
+
+### Thanks for stopping by! ⭐  
