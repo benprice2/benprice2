@@ -26,7 +26,7 @@
 
 ## 🔥 What I'm Working On  
 - 🌐 **Portfolio Website** — refining design & animations  
-- 🌊 **Malmo Marine** — building a proof-of-concept marine job portal  
+- 🌊 **Malmo Marine** — A credential management SaaS for seafarers 
 - 🚤 **Salazar Marine Website** — modern, clean company website build  
 - ✉️ **AI Email Summarizer** — simple ML-powered inbox helper  
 
